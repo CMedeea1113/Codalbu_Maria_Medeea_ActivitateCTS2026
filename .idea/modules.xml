@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/mai/mai1/mai1.iml" filepath="$PROJECT_DIR$/mai/mai1/mai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mai/mai12/mai12.iml" filepath="$PROJECT_DIR$/mai/mai12/mai12.iml" />
       <module fileurl="file://$PROJECT_DIR$/mai/mai13/mai13.iml" filepath="$PROJECT_DIR$/mai/mai13/mai13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mai/mai14/mai14.iml" filepath="$PROJECT_DIR$/mai/mai14/mai14.iml" />
       <module fileurl="file://$PROJECT_DIR$/mai/mai2/mai2.iml" filepath="$PROJECT_DIR$/mai/mai2/mai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mai/mai3/mai3.iml" filepath="$PROJECT_DIR$/mai/mai3/mai3.iml" />
       <module fileurl="file://$PROJECT_DIR$/mai/mai4/mai4.iml" filepath="$PROJECT_DIR$/mai/mai4/mai4.iml" />
@@ -24,6 +25,11 @@
       <module fileurl="file://$PROJECT_DIR$/mai/mai9/mai9.iml" filepath="$PROJECT_DIR$/mai/mai9/mai9.iml" />
       <module fileurl="file://$PROJECT_DIR$/martie/martie.iml" filepath="$PROJECT_DIR$/martie/martie.iml" />
       <module fileurl="file://$PROJECT_DIR$/martie/martie-sunt_mai_multe_aici/martie-sunt_mai_multe_aici.iml" filepath="$PROJECT_DIR$/martie/martie-sunt_mai_multe_aici/martie-sunt_mai_multe_aici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2/pregatireTest2.iml" filepath="$PROJECT_DIR$/pregatireTest2/pregatireTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PregatireTest2/var1/var1.iml" filepath="$PROJECT_DIR$/PregatireTest2/var1/var1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2/var_1/var_1.iml" filepath="$PROJECT_DIR$/pregatireTest2/var_1/var_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2/var_2/var_2.iml" filepath="$PROJECT_DIR$/pregatireTest2/var_2/var_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest2/var_3/var_3.iml" filepath="$PROJECT_DIR$/pregatireTest2/var_3/var_3.iml" />
     </modules>
   </component>
 </project>
